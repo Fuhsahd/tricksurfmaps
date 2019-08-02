@@ -6,10 +6,10 @@ Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN
 
 ~Facade
 
-I also have made trigger lists for each map:
-Skyworld - https://imgur.com/gallery/olh0GaK
-Japan - WIP
-Shimmer - WIP
-Xdre4m - WIP
-Buck-wild - WIP
-Machine - WIP
+I also have made trigger lists for each map:  
+Skyworld - https://imgur.com/gallery/olh0GaK  
+Japan - WIP  
+Shimmer - WIP  
+Xdre4m - WIP  
+Buck-wild - WIP  
+Machine - WIP  
