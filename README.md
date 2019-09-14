@@ -7,4 +7,4 @@ Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN
 ~Facade
 
 Skyworld triggers:  
-Skyworld - https://imgur.com/gallery/olh0GaK  
+https://imgur.com/gallery/olh0GaK  
