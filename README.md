@@ -8,7 +8,8 @@ Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN
 
 Special Thanks To:  
 Sokaries - surf_ski_2_go CS:S port.  
-Eva - surf_ski_2_go CS:S ramp fix.
+Eva - surf_ski_2_go CS:S ramp fix.  
+pretzL - surf_skyworld angle fix.
 
 Skyworld triggers:  
 https://imgur.com/gallery/olh0GaK  
