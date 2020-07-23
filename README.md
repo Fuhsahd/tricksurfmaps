@@ -1,6 +1,6 @@
 # All CS:S Tricksurf Maps 
 
-These maps are all edited specifically for tricksurf, with all weapons, func_breakables, func_buttons, and other unnecessary elements removed(some exceptions), and some triggers changed. 
+These maps are all edited specifically for tricksurf, with all weapons, func_breakables, func_buttons, and other unnecessary elements removed(some exceptions), and some triggers changed. After update 0.8.6 the prefixes of these maps will be changed to tsurf.
 
 Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN-AsvwOC?usp=sharing
 
@@ -9,7 +9,8 @@ Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN
 Special Thanks To:  
 Sokaries - surf_ski_2_go CS:S port.  
 Eva - surf_ski_2_go CS:S ramp fix.  
-pretzL - surf_skyworld angle fix.
+pretzL - surf_skyworld angle fix.  
+Leesriize - surf_buck-wild fixes and changes.
 
 Skyworld triggers:  
 https://imgur.com/gallery/olh0GaK  
