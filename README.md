@@ -10,7 +10,7 @@ surf_skyworld - unknown
 surf_buck-wild - buck nasty  
 surf_shimmer - scaz.zaf  
 surf_greatriver_xdre4m - monkeydie & black  
-surf_concretejungle - pretzL  
+surf_contrickjungle - pretzL  
 surf_ski_2_go - KapoNNIk  
 surf_machine_remix_final - z-machine & paper-cut  
   
