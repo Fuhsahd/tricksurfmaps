@@ -5,14 +5,14 @@ These maps are all edited specifically for tricksurf, with all weapons, func_bre
 Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN-AsvwOC?usp=sharing
 
 ## Original Map Makers:  
-surf_japan_ptad - monkydie & ptad  
+surf_japan_ptad - monkeydie & ptad  
 surf_skyworld - unknown  
 surf_buck-wild - buck nasty  
 surf_shimmer - scaz.zaf  
-surf_greatriver_xdre4m - black  
+surf_greatriver_xdre4m - monkeydie & black  
 surf_concretejungle - pretzL  
 surf_ski_2_go - KapoNNIk  
-surf_machine_remix_final - paper-cut  
+surf_machine_remix_final - z-machine & paper-cut  
   
 ## Special Thanks To:  
 Sokaries - surf_ski_2_go CS:S port.  
