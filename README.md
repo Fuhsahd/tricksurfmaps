@@ -10,9 +10,10 @@ surf_skyworld - unknown
 surf_buck-wild - buck nasty  
 surf_shimmer - scaz.zaf  
 surf_greatriver_xdre4m - black  
-surf_concretejungle - pretzL
-
-
+surf_concretejungle - pretzL  
+surf_ski_2_go - bogroll  
+surf_machine_remix_final - paper-cut  
+  
 ## Special Thanks To:  
 Sokaries - surf_ski_2_go CS:S port.  
 Eva - surf_ski_2_go CS:S ramp fix.  
