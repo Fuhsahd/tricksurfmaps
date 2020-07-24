@@ -4,7 +4,7 @@ These maps are all edited specifically for tricksurf, with all weapons, func_bre
 
 Download here: https://drive.google.com/drive/folders/1EkIJxxVZQl8sYq6LyWItxvhkN-AsvwOC?usp=sharing
 
-Original Map Makers:  
+#Original Map Makers:  
 surf_japan_ptad - monkydie & ptad  
 surf_skyworld - unknown  
 surf_buck-wild - buck nasty  
@@ -13,7 +13,7 @@ surf_greatriver_xdre4m - black
 surf_concretejungle - pretzL
 
 
-Special Thanks To:  
+##Special Thanks To:  
 Sokaries - surf_ski_2_go CS:S port.  
 Eva - surf_ski_2_go CS:S ramp fix.  
 pretzL - surf_skyworld angle fix.  
