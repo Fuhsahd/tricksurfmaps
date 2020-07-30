@@ -20,5 +20,4 @@ Eva - surf_ski_2_go CS:S ramp fix.
 pretzL - surf_skyworld angle fix.  
 Leesriize - surf_buck-wild fixes and changes.
 
-Skyworld triggers:  
-https://imgur.com/gallery/olh0GaK  
+# Triggers can be found on the google drive as well, along with json files with the trick names.
