@@ -18,6 +18,7 @@ surf_machine_remix_final - z-machine & paper-cut
 Sokaries - surf_ski_2_go CS:S port.  
 Eva - surf_ski_2_go CS:S ramp fix.  
 pretzL - surf_skyworld angle fix.  
-Leesriize - surf_buck-wild fixes and changes.
+Leesriize - surf_buck-wild fixes and changes.  
+Flipybitz - compiling all the trigger images into one zip
 
 # Triggers can be found on the google drive as well, along with json files with the trick names.
