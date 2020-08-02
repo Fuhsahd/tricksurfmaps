@@ -1,6 +1,8 @@
 # All CS:S Tricksurf Maps 
 
-These maps are all edited specifically for tricksurf, with all weapons, func_breakables, func_buttons, and other unnecessary elements removed(some exceptions), and some triggers changed. After update 0.8.6 the prefixes of these maps will be changed to tsurf.  
+These maps are all edited specifically for tricksurf, with all weapons, func_breakables, func_buttons, and other unnecessary elements removed(some exceptions), and some triggers changed.
+
+# IMPORTANT: In 0.8.5 the prefix for tricksurf is tricksurf_ ; however, on the github the maps have the prefix tsurf_ in preparation for the eventual arrival of tricksurf. Please rename the map prefixes to tricksurf_ until the update changes the required prefix.
 
 ***Trigger images can also be found on the google drive along with json files with the trick names.***
 
